@@ -16,12 +16,6 @@ I am a 7th-semester Information Systems student at FIAP, 21 years old, and based
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
-### 📊 Stats
-
-![lrafasouza's GitHub stats](https://streak-stats.demolab.com?user=lrafasouza&theme=black-ice&date_format=j%20M%5B%20Y%5D&mode=weekly)]
-
-
-
 <!--
 <details>
  <summary><h3>👨‍💻 lrafasouza Coding Journey</h3></summary>
