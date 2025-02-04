@@ -2,7 +2,7 @@
 
 **`Rafael Souza (Developer/Creator)`**
 
-I am a 7th-semester Information Systems student at FIAP, 21 years old, and based in São Paulo. Backend Developer with experience in Java, Spring Boot, and relational databases like PostgreSQL. I also have frontend experience with TypeScript and the Angular framework. Specialized in building RESTful APIs and maintaining systems. I am a creative, proactive, and resilient person, with the ability to learn and adapt to different scenarios. Committed to delivering efficient and high-quality solutions, I constantly seek to expand my knowledge and contribute meaningfully to the field of technology.
+I am a 7th-semester Information Systems student at FIAP, 21 years old, and based in São Paulo. I am a Fullstack Developer with experience in Java, Spring Boot, and relational databases like PostgreSQL on the backend, as well as TypeScript and Angular on the frontend. Specialized in building and maintaining RESTful systems, I strive to deliver efficient and high-quality solutions. Creative, proactive, and resilient, I learn quickly and adapt to different scenarios, actively contributing to technological advancements.
 
 ### 🧰 Languages and Tools
 
